@@ -1,1 +1,2 @@
-# Pandora - opening a CKAN of government data
+# Pandora
+Opening a CKAN of government data
